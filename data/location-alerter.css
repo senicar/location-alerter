@@ -1,0 +1,12 @@
+/*#urlbar.alert,*/
+/*#urlbar.alert #identity-box,*/
+/*#urlbar.alert .urlbar-textbox-container {*/
+#urlbar.alert-bad .urlbar-input-box {
+	/*background-color: #A62a2a;*/
+	/*color: #efefef !important;*/
+	/*border: thin solid #A62a2a !important;*/
+	border-radius: 2px !important;
+	padding: 0px 0 0px 2px !important;
+	/*margin: -1px 0 -1px 0px !important;*/
+}
+

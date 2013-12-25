@@ -1,0 +1,26 @@
+{
+	"name": "location-alerter",
+	"title": "Location Alerter",
+	"id": "location-alerter@senicar.net",
+	"description": "Highlights address bar when a string is found in the URL",
+	"author": "senicar",
+	"license": "MPL 2.0",
+	"version": "0.1",
+
+	"preferences": [
+		{
+			"name": "strings",
+			"title": "Search for strings in URL",
+			"description": "Separate strings with comma (,)",
+			"type": "string",
+			"value": ""
+		},
+		{
+			"name": "bgcolor",
+			"title": "Highlight color",
+			"description": "Address bar background color when string is found in URL",
+			"type": "color",
+			"value": "#CC0000"
+		}
+	]
+}
