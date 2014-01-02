@@ -5,7 +5,7 @@
 	"description": "Highlights address bar when a string is found in the URL",
 	"author": "senicar",
 	"license": "MPL 2.0",
-	"version": "0.1",
+	"version": "0.1.1",
 
 	"preferences": [
 		{
